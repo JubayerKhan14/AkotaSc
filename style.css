@@ -1,0 +1,30 @@
+body{
+    font-family: 'Reggae One', cursive;
+}
+.nav-bar{
+    background-color: salmon;
+}
+.logo{
+    color: rgb(59, 30, 221);
+}
+ .nav-link:hover{
+    background-color: green;
+}
+img{
+    height:450px;
+    width:200px;
+}
+.only-image {
+    height:300px;
+    width:100%;
+}
+.card-border {
+    border:0px;
+}
+.card-padding{
+    padding: 5px;
+}
+h5{
+    color:slateblue;
+    font-size: 30px;
+}
